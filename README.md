@@ -3,7 +3,7 @@
 Welcome to this repository! 🎉 This repository contains multiple projects, each stored in its own file. Each project tackles a unique problem or demonstrates a specific concept. Below, you will find an overview of the projects and their contents.
 
 
-![Clustering Animation](https://upload.wikimedia.org/wikipedia/commons/e/ea/K-means_convergence.gif)
+![Mandelbrot Animation](https://upload.wikimedia.org/wikipedia/commons/2/21/Mandelbrot_sequence_new.gif)
 
 ---
 
